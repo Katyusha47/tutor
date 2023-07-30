@@ -1,6 +1,3 @@
-/* Body styles */
-/* CSS for Python Tutorial Website */
-
 /* CSS for Python Tutorial Website */
 
 /* Body styles */
@@ -8,6 +5,34 @@ body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   margin: 0;
+}
+
+/* Navbar styles */
+.navbar {
+  padding: 1rem;
+}
+
+/* Search bar styles */
+.form-inline .form-control {
+  margin-right: 0.5rem;
+}
+
+/* Footer styles */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 1rem 0;
+}
+
+/* Code block styles */
+pre {
+  margin: 0;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+/* Bootstrap override for horizontal padding in cards */
+.card-body {
+  padding: 1.25rem;
 }
 
 /* Navbar styles */
