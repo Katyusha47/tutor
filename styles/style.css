@@ -1,0 +1,137 @@
+/* Body styles */
+/* CSS for Python Tutorial Website */
+
+/* CSS for Python Tutorial Website */
+
+/* Body styles */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* Navbar styles */
+.navbar {
+  padding: 1rem;
+}
+
+/* Hello, World! Tutorial Section styles */
+#hello-world {
+  padding: 3rem 0;
+}
+
+/* Footer styles */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 1rem 0;
+}
+
+/* Code block styles */
+pre {
+  margin: 0;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+/* Bootstrap override for horizontal padding in cards */
+.card-body {
+  padding: 1.25rem;
+}
+
+/* Navbar styles */
+.navbar {
+  padding: 1rem;
+}
+
+/* Topics Section styles */
+#topics {
+  padding: 3rem 0;
+}
+
+/* Footer styles */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 1rem 0;
+}
+
+/* Code block styles */
+pre {
+  margin: 0;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+/* Bootstrap override for horizontal padding in cards */
+.card-body {
+  padding: 1.25rem;
+}
+    
+  /* Navbar styles */
+.navbar {
+    padding: 1rem;
+}
+  
+  /* Home Section styles */
+/* Home Section styles */
+#home {
+    background: url('path/to/your/background-image.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh; /* Fill the viewport height */
+    display: flex;
+    align-items: center;
+}
+  
+  /* Center the content vertically within the Home section */
+.jumbotron {
+    margin: 0 auto;
+}  
+  /* About Section styles */
+#about {
+    padding: 3rem 0;
+}
+  
+  /* Topics Section styles */
+#topics {
+    padding: 3rem 0;
+}
+  
+  /* Getting Started Section styles */
+#getting-started {
+    padding: 3rem 0;
+}
+  
+  /* Examples Section styles */
+#examples {
+    padding: 3rem 0;
+}
+  
+.code-editor {
+    background-color: #f7f7f7;
+    padding: 15px;
+    border-radius: 5px;
+    overflow: auto;
+}
+  
+  /* Contact Section styles */
+#contact {
+    padding: 3rem 0;
+}
+  
+  /* Footer styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+}
+  
+  /* Code block styles */
+pre {
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+  
+  /* Bootstrap override for horizontal padding in cards */
+.card-body {
+    padding: 1.25rem;
+}
+  
